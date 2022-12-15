@@ -1,0 +1,18 @@
+sauceLabsLogin:
+ #frmLoginFrame: "//div[@class='login-box']/form"
+  txtUserName: "#user-name"
+  txtPassword: "#password"
+  btnLogin: "//input[@name='login-button']"
+sauceLabsLanding:
+ imgProduct: "{}Sauce Labs Backpack"
+ btnAddToCart: "{^}Add to cart"
+ imgShoppingcart: "//span[@class='shopping_cart_badge']"
+ btnContinueShopping: "{}Continue Shopping"
+ btnCheckout: "{}Checkout"
+ txtFName: "#first-name"
+ txtLName: "#last-name"
+ txtPostalCode: "#postal-code"
+ btnContinue: "#continue"
+ btnFinish: "{^}Finish"
+ msgOrderPlacedSucessfully: "{}THANK YOU FOR YOUR ORDER"
+ 
