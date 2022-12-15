@@ -11,5 +11,5 @@ This repository contains two folder:
     - Karate UI : https://karatelabs.github.io/karate/karate-core/
     - Report Portal : https://reportportal.io/docs
 
-Please try the code and share your valkuable feedback.
+Please try the code and share your valuable feedback.
 In case of any queries please reach out to ksamel@webuy.com.
